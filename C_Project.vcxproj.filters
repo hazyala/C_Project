@@ -27,9 +27,6 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="testtttt.c">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
     <ClCompile Include="a.c">
       <Filter>소스 파일\0314</Filter>
     </ClCompile>

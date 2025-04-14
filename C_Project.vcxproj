@@ -45,7 +45,6 @@
     <ClCompile Include="project1_Piramid.c" />
     <ClCompile Include="project2_Piramid_V.c" />
     <ClCompile Include="project3_Diamond.c" />
-    <ClCompile Include="testtttt.c" />
   </ItemGroup>
   <PropertyGroup Label="Globals">
     <VCProjectVersion>17.0</VCProjectVersion>
