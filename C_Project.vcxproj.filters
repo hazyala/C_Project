@@ -14,101 +14,98 @@
       <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
     </Filter>
     <Filter Include="소스 파일\0314">
-      <UniqueIdentifier>{0a3b0858-617e-4b68-a133-98fa72b51025}</UniqueIdentifier>
+      <UniqueIdentifier>{a5a0d1be-114e-403d-ab6f-e9b983825113}</UniqueIdentifier>
     </Filter>
     <Filter Include="소스 파일\0321">
-      <UniqueIdentifier>{f0a77e59-8fd3-4f52-b2cc-c8c26916138f}</UniqueIdentifier>
+      <UniqueIdentifier>{4ed51f08-a6ab-498f-a094-5154c799eb95}</UniqueIdentifier>
     </Filter>
     <Filter Include="소스 파일\0404">
-      <UniqueIdentifier>{480498db-101e-409a-b53e-48b251309837}</UniqueIdentifier>
+      <UniqueIdentifier>{dfbfb33c-4b37-48ba-b98b-e2607ca58b64}</UniqueIdentifier>
     </Filter>
     <Filter Include="소스 파일\0411">
-      <UniqueIdentifier>{70aa416b-e8f8-4ff1-aba9-ab50a84eb5f1}</UniqueIdentifier>
+      <UniqueIdentifier>{50e9a542-368c-4877-9653-bd13c7368048}</UniqueIdentifier>
     </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="testtttt.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
-    <ClCompile Include="C:\Users\AI-510-152\Desktop\새 폴더\a.c">
+    <ClCompile Include="a.c">
       <Filter>소스 파일\0314</Filter>
     </ClCompile>
-    <ClCompile Include="C:\Users\AI-510-152\Desktop\새 폴더\3_14.c">
+    <ClCompile Include="3_12.c">
       <Filter>소스 파일\0321</Filter>
     </ClCompile>
-    <ClCompile Include="C:\Users\AI-510-152\Desktop\새 폴더\3_15.c">
+    <ClCompile Include="3_14.c">
       <Filter>소스 파일\0321</Filter>
     </ClCompile>
-    <ClCompile Include="C:\Users\AI-510-152\Desktop\새 폴더\example1.c">
+    <ClCompile Include="3_15.c">
       <Filter>소스 파일\0321</Filter>
     </ClCompile>
-    <ClCompile Include="C:\Users\AI-510-152\Desktop\새 폴더\example2.c">
+    <ClCompile Include="example1.c">
       <Filter>소스 파일\0321</Filter>
     </ClCompile>
-    <ClCompile Include="C:\Users\AI-510-152\Desktop\새 폴더\example3.c">
+    <ClCompile Include="example2.c">
       <Filter>소스 파일\0321</Filter>
     </ClCompile>
-    <ClCompile Include="C:\Users\AI-510-152\Desktop\새 폴더\example4.c">
+    <ClCompile Include="example3.c">
       <Filter>소스 파일\0321</Filter>
     </ClCompile>
-    <ClCompile Include="C:\Users\AI-510-152\Desktop\새 폴더\example5.c">
+    <ClCompile Include="example4.c">
       <Filter>소스 파일\0321</Filter>
     </ClCompile>
-    <ClCompile Include="C:\Users\AI-510-152\Desktop\새 폴더\example5_ADD.c">
+    <ClCompile Include="example5.c">
       <Filter>소스 파일\0321</Filter>
     </ClCompile>
-    <ClCompile Include="C:\Users\AI-510-152\Desktop\새 폴더\example6.c">
+    <ClCompile Include="example5_ADD.c">
       <Filter>소스 파일\0321</Filter>
     </ClCompile>
-    <ClCompile Include="C:\Users\AI-510-152\Desktop\새 폴더\example7.c">
+    <ClCompile Include="example6.c">
       <Filter>소스 파일\0321</Filter>
     </ClCompile>
-    <ClCompile Include="C:\Users\AI-510-152\Desktop\새 폴더\3_12.c">
+    <ClCompile Include="example7.c">
       <Filter>소스 파일\0321</Filter>
     </ClCompile>
-    <ClCompile Include="C:\Users\AI-510-152\Desktop\새 폴더\4_8.c">
+    <ClCompile Include=".c">
       <Filter>소스 파일\0404</Filter>
     </ClCompile>
-    <ClCompile Include="C:\Users\AI-510-152\Desktop\새 폴더\5_6.c">
+    <ClCompile Include="5_6.c">
       <Filter>소스 파일\0404</Filter>
     </ClCompile>
-    <ClCompile Include="C:\Users\AI-510-152\Desktop\새 폴더\example10.c">
+    <ClCompile Include="example10.c">
       <Filter>소스 파일\0404</Filter>
     </ClCompile>
-    <ClCompile Include="C:\Users\AI-510-152\Desktop\새 폴더\example11.c">
+    <ClCompile Include="example11.c">
       <Filter>소스 파일\0404</Filter>
     </ClCompile>
-    <ClCompile Include="C:\Users\AI-510-152\Desktop\새 폴더\example12.c">
+    <ClCompile Include="example12.c">
       <Filter>소스 파일\0404</Filter>
     </ClCompile>
-    <ClCompile Include="C:\Users\AI-510-152\Desktop\새 폴더\example13.c">
+    <ClCompile Include="example13.c">
       <Filter>소스 파일\0404</Filter>
     </ClCompile>
-    <ClCompile Include="C:\Users\AI-510-152\Desktop\새 폴더\example16.c">
+    <ClCompile Include="6_13.c">
       <Filter>소스 파일\0411</Filter>
     </ClCompile>
-    <ClCompile Include="C:\Users\AI-510-152\Desktop\새 폴더\project1_Piramid.c">
+    <ClCompile Include="9X9.c">
       <Filter>소스 파일\0411</Filter>
     </ClCompile>
-    <ClCompile Include="C:\Users\AI-510-152\Desktop\새 폴더\project2_Piramid_V.c">
+    <ClCompile Include="9X9_V.c">
       <Filter>소스 파일\0411</Filter>
     </ClCompile>
-    <ClCompile Include="C:\Users\AI-510-152\Desktop\새 폴더\project3_Diamond.c">
+    <ClCompile Include="example15.c">
       <Filter>소스 파일\0411</Filter>
     </ClCompile>
-    <ClCompile Include="C:\Users\AI-510-152\Desktop\새 폴더\teststststst.c">
+    <ClCompile Include="example16.c">
       <Filter>소스 파일\0411</Filter>
     </ClCompile>
-    <ClCompile Include="C:\Users\AI-510-152\Desktop\새 폴더\6_13.c">
+    <ClCompile Include="project1_Piramid.c">
       <Filter>소스 파일\0411</Filter>
     </ClCompile>
-    <ClCompile Include="C:\Users\AI-510-152\Desktop\새 폴더\9X9.c">
+    <ClCompile Include="project2_Piramid_V.c">
       <Filter>소스 파일\0411</Filter>
     </ClCompile>
-    <ClCompile Include="C:\Users\AI-510-152\Desktop\새 폴더\9X9_V.c">
-      <Filter>소스 파일\0411</Filter>
-    </ClCompile>
-    <ClCompile Include="C:\Users\AI-510-152\Desktop\새 폴더\example15.c">
+    <ClCompile Include="project3_Diamond.c">
       <Filter>소스 파일\0411</Filter>
     </ClCompile>
   </ItemGroup>
