@@ -63,7 +63,7 @@
     <ClCompile Include="example7.c">
       <Filter>소스 파일\0321</Filter>
     </ClCompile>
-    <ClCompile Include=".c">
+    <ClCompile Include="4_8.c">
       <Filter>소스 파일\0404</Filter>
     </ClCompile>
     <ClCompile Include="5_6.c">
