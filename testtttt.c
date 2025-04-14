@@ -2,5 +2,5 @@
 
 void main() {
 	printf("ㅋㅋㅋ진짜");
-	printf("ㅎㅎㅎㅎㅎㅎㅎㅎ");
+	printf("ㅎㅋㅎㅋㅎㅋㅎㅋ");
 }
