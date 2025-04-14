@@ -2,4 +2,5 @@
 
 void main() {
 	printf("¤»¤»");
+	printf("ÇØÄ¡¿ü³ª..?");
 }
