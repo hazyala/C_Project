@@ -72,13 +72,13 @@
     <ClCompile Include="0404_example10.c">
       <Filter>소스 파일\0404</Filter>
     </ClCompile>
-    <ClCompile Include="example11.c">
+    <ClCompile Include="0404_example11.c">
       <Filter>소스 파일\0404</Filter>
     </ClCompile>
-    <ClCompile Include="example12.c">
+    <ClCompile Include="0404_example12.c">
       <Filter>소스 파일\0404</Filter>
     </ClCompile>
-    <ClCompile Include="example13.c">
+    <ClCompile Include="0404_example13.c">
       <Filter>소스 파일\0404</Filter>
     </ClCompile>
     <ClCompile Include="6_13.c">
