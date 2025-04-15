@@ -1,4 +1,4 @@
-#define _CRT_SECURE_NO_WARNINGS
+﻿#define _CRT_SECURE_NO_WARNINGS
 #include <stdio.h>
 
 void main()
@@ -17,7 +17,7 @@ void main()
         printf("짝수는 안 됩니다. 홀수만 입력해주세요.\n");//짝수를 입력했을 경우 1번으로 돌아가 코드 반복
     }
 
-    for (int i = 0; i <  a; i++) // i는 0에서 시작하고 i가 a보다 작을때까지 i를 1씩 증감한다 (i는 피라미드의 i층이 됨)
+    for (int i = 0; i < a; i++) // i는 0에서 시작하고 i가 a보다 작을때까지 i를 1씩 증감한다 (i는 피라미드의 i층이 됨)
     {
         if (i <= (a - 1) / 2) // 2번째 중첩 for문이 넘치는 현상을 막아줌. 사실 그냥  가장 큰 1번째 for문의 조건을 (a - 1) / 2)로 수정해주면 간편해지나, 그냥 이렇게 하고 싶었음.
         {

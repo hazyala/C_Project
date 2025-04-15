@@ -99,10 +99,10 @@
     <ClCompile Include="0411_project1_Piramid.c">
       <Filter>소스 파일\0411</Filter>
     </ClCompile>
-    <ClCompile Include="0411_project2_Piramid_V.c">
+    <ClCompile Include="0411_project3_Diamond.c">
       <Filter>소스 파일\0411</Filter>
     </ClCompile>
-    <ClCompile Include="0411_project3_Diamond.c">
+    <ClCompile Include="0411_project2_Piramid_V.c">
       <Filter>소스 파일\0411</Filter>
     </ClCompile>
   </ItemGroup>
