@@ -69,7 +69,7 @@
     <ClCompile Include="0404_5_6.c">
       <Filter>소스 파일\0404</Filter>
     </ClCompile>
-    <ClCompile Include="example10.c">
+    <ClCompile Include="0404_example10.c">
       <Filter>소스 파일\0404</Filter>
     </ClCompile>
     <ClCompile Include="example11.c">
