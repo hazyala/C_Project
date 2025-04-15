@@ -48,8 +48,8 @@
     <ClCompile Include="0321_example4.c" />
     <ClCompile Include="0321_example5.c" />
     <ClCompile Include="0321_example5_ADD.c" />
-    <ClCompile Include="example6.c" />
-    <ClCompile Include="example7.c" />
+    <ClCompile Include="0321_example6.c" />
+    <ClCompile Include="0321_example7.c" />
     <ClCompile Include="project1_Piramid.c" />
     <ClCompile Include="project2_Piramid_V.c" />
     <ClCompile Include="project3_Diamond.c" />
