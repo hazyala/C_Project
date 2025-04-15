@@ -34,9 +34,11 @@
     <ClCompile Include="0404_5_6.c">
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
     </ClCompile>
-    <ClCompile Include="0411_6_13.c" />
-    <ClCompile Include="9X9.c" />
-    <ClCompile Include="9X9_V.c" />
+    <ClCompile Include="0411_6_13.c">
+      <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
+    </ClCompile>
+    <ClCompile Include="0411_9X9.c" />
+    <ClCompile Include="0411_9X9_V.c" />
     <ClCompile Include="0314_a.c">
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
     </ClCompile>
