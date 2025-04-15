@@ -36,18 +36,18 @@
     <ClCompile Include="0314_a.c">
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
     </ClCompile>
-    <ClCompile Include="example1.c" />
+    <ClCompile Include="0321_example1.c" />
     <ClCompile Include="example10.c" />
     <ClCompile Include="example11.c" />
     <ClCompile Include="example12.c" />
     <ClCompile Include="example13.c" />
     <ClCompile Include="example15.c" />
     <ClCompile Include="example16.c" />
-    <ClCompile Include="example2.c" />
-    <ClCompile Include="example3.c" />
-    <ClCompile Include="example4.c" />
-    <ClCompile Include="example5.c" />
-    <ClCompile Include="example5_ADD.c" />
+    <ClCompile Include="0321_example2.c" />
+    <ClCompile Include="0321_example3.c" />
+    <ClCompile Include="0321_example4.c" />
+    <ClCompile Include="0321_example5.c" />
+    <ClCompile Include="0321_example5_ADD.c" />
     <ClCompile Include="example6.c" />
     <ClCompile Include="example7.c" />
     <ClCompile Include="project1_Piramid.c" />
