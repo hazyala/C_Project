@@ -19,7 +19,7 @@
     </ProjectConfiguration>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="4_8.c" />
+    <ClCompile Include="0404_4_8.c" />
     <ClCompile Include="0321_3_12.c">
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
     </ClCompile>
@@ -29,27 +29,43 @@
     <ClCompile Include="0321_3_15.c">
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
     </ClCompile>
-    <ClCompile Include="5_6.c" />
+    <ClCompile Include="0404_5_6.c" />
     <ClCompile Include="6_13.c" />
     <ClCompile Include="9X9.c" />
     <ClCompile Include="9X9_V.c" />
     <ClCompile Include="0314_a.c">
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
     </ClCompile>
-    <ClCompile Include="0321_example1.c" />
+    <ClCompile Include="0321_example1.c">
+      <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
+    </ClCompile>
     <ClCompile Include="example10.c" />
     <ClCompile Include="example11.c" />
     <ClCompile Include="example12.c" />
     <ClCompile Include="example13.c" />
     <ClCompile Include="example15.c" />
     <ClCompile Include="example16.c" />
-    <ClCompile Include="0321_example2.c" />
-    <ClCompile Include="0321_example3.c" />
-    <ClCompile Include="0321_example4.c" />
-    <ClCompile Include="0321_example5.c" />
-    <ClCompile Include="0321_example5_ADD.c" />
-    <ClCompile Include="0321_example6.c" />
-    <ClCompile Include="0321_example7.c" />
+    <ClCompile Include="0321_example2.c">
+      <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
+    </ClCompile>
+    <ClCompile Include="0321_example3.c">
+      <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
+    </ClCompile>
+    <ClCompile Include="0321_example4.c">
+      <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
+    </ClCompile>
+    <ClCompile Include="0321_example5.c">
+      <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
+    </ClCompile>
+    <ClCompile Include="0321_example5_ADD.c">
+      <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
+    </ClCompile>
+    <ClCompile Include="0321_example6.c">
+      <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
+    </ClCompile>
+    <ClCompile Include="0321_example7.c">
+      <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
+    </ClCompile>
     <ClCompile Include="project1_Piramid.c" />
     <ClCompile Include="project2_Piramid_V.c" />
     <ClCompile Include="project3_Diamond.c" />
