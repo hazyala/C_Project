@@ -82,7 +82,7 @@
     </ClCompile>
     <ClCompile Include="0411_project1_Piramid.c" />
     <ClCompile Include="0411_project2_Piramid_V.c" />
-    <ClCompile Include="project3_Diamond.c" />
+    <ClCompile Include="0411_project3_Diamond.c" />
   </ItemGroup>
   <PropertyGroup Label="Globals">
     <VCProjectVersion>17.0</VCProjectVersion>
